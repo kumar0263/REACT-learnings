@@ -1,0 +1,18 @@
+Creating an h1 tag using DOM
+
+legacy.reactjs.org/docs/cdn-links.html -> we copied 
+the code from this and pasted into our local react and 
+react-dom.js and were able to use the react library
+
+learnt how previously the react application was built (CDN)
+and how we are gonna build now-a-days(CRA)
+
+NPM -> Node Package Manager 
+CRA -> Create React application
+
+CDN -> we import code and use those prewritten code of js
+and write the code for react but it was more and hectic 
+so now we are using create react app modern days of 
+creating react application
+
+
